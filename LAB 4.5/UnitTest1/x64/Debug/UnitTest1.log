@@ -1,0 +1,17 @@
+﻿  UnitTest1.cpp
+D:\2 курс 1 семестр\LAB 4.5\UnitTest1\UnitTest1.cpp(20,37): error C2039: 'cout': is not a member of 'std'
+  (compiling source file '/UnitTest1.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\sstream(19,1):
+      see declaration of 'std'
+  
+D:\2 курс 1 семестр\LAB 4.5\UnitTest1\UnitTest1.cpp(20,37): error C2065: 'cout': undeclared identifier
+  (compiling source file '/UnitTest1.cpp')
+  
+D:\2 курс 1 семестр\LAB 4.5\UnitTest1\UnitTest1.cpp(24,14): error C2039: 'cout': is not a member of 'std'
+  (compiling source file '/UnitTest1.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\sstream(19,1):
+      see declaration of 'std'
+  
+D:\2 курс 1 семестр\LAB 4.5\UnitTest1\UnitTest1.cpp(24,14): error C2065: 'cout': undeclared identifier
+  (compiling source file '/UnitTest1.cpp')
+  
